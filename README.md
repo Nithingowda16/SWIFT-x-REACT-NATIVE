@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ios-interface-react-native-swift.git
+git clone https://cdpn.io/pen/debug/gONJRGx?authentication_hash=wQrPopqXJabM
 cd ios-interface-react-native-swift
 Install dependencies:
 
