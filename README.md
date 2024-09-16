@@ -37,7 +37,7 @@ Node.js (>= 12.x)
 Xcode (for iOS development)
 React Native CLI installed globally:
 java
-Copy code
+
 npm install -g react-native-cli
 Steps
 Clone the repository:
@@ -103,16 +103,17 @@ We welcome contributions! Please follow these steps to contribute:
 Fork the repository.
 Create a feature branch:
 bash
-Copy code
+
 git checkout -b feature-name
 Commit your changes:
 bash
-Copy code
+
 git commit -m 'Add feature'
 Push to the branch:
 bash
-Copy code
+
 git push origin feature-name
 Open a pull request.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
